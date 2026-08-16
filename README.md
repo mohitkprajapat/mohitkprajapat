@@ -4,7 +4,7 @@ Data Scientist with 4+ years building production ML systems on operational, sens
 
 B.Tech, Mechanical Engineering, IIT Delhi
 
-Contact: mohitprajapat31@gmail.com | LinkedIn | GitHub
+Contact: mohitprajapat31@gmail.com
 
 ## Experience
 
