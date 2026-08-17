@@ -1,39 +1,59 @@
-# Mohit Kumar Prajapat
+# Hi, I'm Mohit Kumar Prajapat
 
-Data Scientist with 4+ years building production ML systems on operational, sensor, and behavioral data. Background in predictive modeling, uncertainty quantification, and computer vision, with growing focus on LLM applications.
+### Data Scientist building production ML systems on operational, sensor, and behavioral data
 
-B.Tech, Mechanical Engineering, IIT Delhi
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-k-prajapat)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohitprajapat31@gmail.com)
 
-Contact: mohitprajapat31@gmail.com
+---
 
-## Experience
+## About Me
 
-**Consultant (Contract), Momentum Shift** — Jan 2026–Present
-Data and AI stack for creator discovery, pricing, and social-campaign analytics. Built a Slack-native LLM agent for querying a PostgreSQL database in plain English, a KNN-based creator price estimator, a multilingual sentiment/theme-tagging layer, and the underlying ingestion pipeline and metrics engine.
+I'm a Data Scientist with 4+ years of experience turning messy real-world data — sensor readings, manufacturing logs, road-crash records, social media metrics — into production ML systems that move business metrics. My background is in **predictive modeling, uncertainty quantification, and computer vision**, and I've spent the last year going deep on **LLM applications**: tool-calling agents, RAG systems, and multi-agent coding workflows.
 
-**Data Scientist, IIT Kharagpur** — Dec 2024–Dec 2025
-Analyzed 1.6M+ road crash records to guide safety policy. Built a TabResNet model for injury-severity prediction with SHAP interpretability and MC Dropout uncertainty quantification, and a confidence-based triage layer for flagging ambiguous predictions.
+- B.Tech, Mechanical Engineering, IIT Delhi
+- Currently building the data & AI stack for creator discovery, pricing, and campaign analytics at **Momentum Shift**
+- Past work: injury-severity modeling on 1.6M+ crash records, ensemble sensor models cutting service time 12%, defect-prediction models cutting rework 78%
+- Currently deepening my LLM/agentic systems expertise (LangGraph, MCP, tool-calling architectures)
+- Ask me about uncertainty quantification, ensemble modeling, or building LLM agents that don't hallucinate their numbers
 
-**Senior Design & Analytics Engineer, Inverted Energy** — Oct 2023–Oct 2024
-Reduced service time by 12% and service demand by 18% through ensemble modeling on sensor and IoT data. Implemented a computer-vision-based cell alignment check with over 98% accuracy.
+---
 
-**Assistant Manager, Bajaj Auto Ltd.** — Sep 2021–Sep 2023
-Built a regression model to predict out-of-spec parts, cutting rework by 78%. Optimized machining parameters, built an anomaly detection model with Isolation Forest, and prototyped a RAG-based document retrieval system.
+## Tech Stack
 
-## Projects
+**Languages & Data:** Python, SQL, Pandas, NumPy, SciPy
+**ML / DL:** Scikit-learn, XGBoost, PyTorch, TensorFlow, SHAP
+**GenAI / LLM:** LangChain, LangGraph, RAG, MCP, Embeddings
+**MLOps / Deployment:** Flask, Docker, AWS, GitHub Actions
+**Visualization / BI:** Tableau, Power BI, Matplotlib, Seaborn
 
-**db-agent** — Chat-based analytics assistant over a Postgres dataset. A LangGraph tool-calling agent converts plain-English questions into validated queries; results come only from the tools, not model memory.
+---
 
-**Autocoder** — Graph-based AI coding agent with specialized nodes for query analysis, context retrieval, planning, editing, and review. Includes an AST-based repository indexer and an MCP server for file, diff, and call-graph tools.
+## Featured Projects
 
-**Car Damage Severity Detector** — Deep learning app that classifies car damage photos as minor, moderate, or severe. Uses an ensemble of fine-tuned VGG16, ResNet50, and MobileNetV2 models, deployed on AWS with Docker and GitHub Actions.
+| Project | What it does |
+|---|---|
+| **[db-agent](https://github.com/mohitkprajapat/db-agent)** | Chat-based analytics assistant over a Postgres dataset. A LangGraph tool-calling agent turns plain-English questions into validated SQL queries — results always come from the tools, never from model memory. |
+| **[Autocoder](https://github.com/mohitkprajapat/autocoder)** | Graph-based AI coding agent with specialized nodes for query analysis, context retrieval, planning, editing, and review, plus an AST-based repo indexer and an MCP server for file/diff/call-graph tools. |
+| **[Car Damage Severity Detector](https://github.com/mohitkprajapat/car-damage-severity)** | Deep learning app that classifies car damage photos as minor/moderate/severe using an ensemble of fine-tuned VGG16, ResNet50, and MobileNetV2, deployed on AWS with Docker + GitHub Actions. |
+| **[Sentiment Analysis](https://github.com/mohitkprajapat/sentiment-analysis)** | Binary sentiment classifier for Amazon reviews using GloVe embeddings and a stacked LSTM, with class-weighting for label imbalance. |
+| **[Finger Tracker](https://github.com/mohitkprajapat/finger-tracker)** | Webcam-based mouse control via MediaPipe hand tracking — one hand drives the cursor, the other handles clicks and drags. |
+| **[screen-grab](https://github.com/mohitkprajapat/screen-grab)** | Windows tool for recording annotated screen walkthroughs with live click/drag overlays and captioned key frames. |
 
-**Sentiment Analysis** — Binary sentiment classifier for Amazon reviews using GloVe embeddings and a stacked LSTM, with class-weighting to handle label imbalance.
+---
 
-**Finger Tracker** — Webcam-based mouse control using MediaPipe hand tracking. One hand drives the cursor and scrolling, the other handles clicks and drags.
+## Experience Snapshot
 
-**screen-grab** — Windows tool for recording annotated screen walkthroughs, with live click/drag overlays, captioned key frames, and H.264 export.
+- **Consultant (Contract), Momentum Shift** — Slack-native LLM agent for querying Postgres in plain English, a KNN-based creator price estimator, multilingual sentiment/theme tagging, and the ingestion pipeline behind it
+- **Data Scientist, IIT Kharagpur** — TabResNet model for injury-severity prediction on 1.6M+ crash records, with SHAP interpretability and MC Dropout uncertainty quantification
+- **Senior Design & Analytics Engineer, Inverted Energy** — Ensemble modeling on sensor/IoT data (−12% service time, −18% service demand) and a CV-based cell alignment check at 98%+ accuracy
+- **Assistant Manager, Bajaj Auto Ltd.** — Regression model cutting rework 78%, anomaly detection with Isolation Forest, and an early RAG-based document retrieval prototype
 
-## Skills
+---
 
-Python, SQL, Pandas, NumPy, SciPy, Scikit-learn, XGBoost, PyTorch, TensorFlow, SHAP, LangChain, LangGraph, Flask, Docker, AWS, GitHub Actions, Tableau, Power BI
+## Get in Touch
+
+- Email: **mohitprajapat31@gmail.com**
+- LinkedIn: [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+
+Open to full time and freelance/consulting work in ML, data science, and LLM-powered systems.
