@@ -54,6 +54,6 @@ I'm a Data Scientist with 4+ years of experience turning messy real-world data â
 ## Get in Touch
 
 - Email: **mohitprajapat31@gmail.com**
-- LinkedIn: [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- LinkedIn: [linkedin.com/in/mohit-k-prajapat](https://www.linkedin.com/in/mohit-k-prajapat)
 
 Open to full time and freelance/consulting work in ML, data science, and LLM-powered systems.
